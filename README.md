@@ -39,7 +39,7 @@ Open folder on Visual Studio Code and open the index file with live server on th
 
 ## Deployed Link
 
-* [See Live Site](https://juanespinozacode.github.io/Workshop/)
+* [See Live Site](https://juanespinozacode.github.io/Mortgage-FutureValue-Calculator/)
 
 ## Images
 
